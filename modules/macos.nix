@@ -17,6 +17,8 @@
         home-manager
         git
         ssh
+        fonts
+        neovim
 
         {
           home.username = "shuma";
